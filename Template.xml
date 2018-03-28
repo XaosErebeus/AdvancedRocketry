@@ -1,19 +1,19 @@
 <galaxy>
-    <star name="Sol" temp="100" x="0" y="0" numPlanets="10" numGasGiants="1">
-        <planet name="Planet A">
-            <fogColor>1,1,1</fogColor>
-            <skyColor>0,0,1</skyColor>
+    <star name="Horuset" temp="100" "9254"="0" y="6991" numPlanets="10" numGasGiants="0">
+        <planet name="Korriban" DIMID="55" dimMapping="" customIcon="MarsLike">
+            <fogColor>178,34,34</fogColor>
+            <skyColor>178,34,34</skyColor>
             <atmosphereDensity>100</atmosphereDensity>
-            <gravitationalMultiplier>100</gravitationalMultiplier>
-            <orbitalDistance>1000</orbitalDistance>
+            <gravitationalMultiplier>103</gravitationalMultiplier>
+            <orbitalDistance>150</orbitalDistance>
             <orbitalTheta>180</orbitalTheta>
             <rotationalPeriod>24000</rotationalPeriod>
-            <biomeIds>0</biomeIds>
-            <planet name="Planet A moon">
+            <biomeIds>165,37</biomeIds>
+            <planet name="Moon">
                 <fogColor>1,1,1</fogColor>
                 <skyColor>1,0.5,0.5</skyColor>
-                <atmosphereDensity>180</atmosphereDensity>
-                <gravitationalMultiplier>100</gravitationalMultiplier>
+                <atmosphereDensity>200</atmosphereDensity>
+                <gravitationalMultiplier>200</gravitationalMultiplier>
                 <orbitalDistance>150</orbitalDistance>
                 <orbitalTheta>190</orbitalTheta>
                 <rotationalPeriod>100</rotationalPeriod>
