@@ -1,5 +1,5 @@
 <galaxy>
-    <star name="Horuset" temp="100" "9254"="0" y="6991" numPlanets="10" numGasGiants="0">
+    <star name="Horuset" temp="1000" "9254"="0" y="6991" numPlanets="10" numGasGiants="0">
         <planet name="Korriban" DIMID="55" dimMapping="" customIcon="MarsLike">
             <fogColor>178,34,34</fogColor>
             <skyColor>178,34,34</skyColor>
